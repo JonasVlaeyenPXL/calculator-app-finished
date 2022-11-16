@@ -10,7 +10,8 @@
   "author": "Dries Swinnen",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "dotenv": "^16.0.3"
   },
   "devDependencies": {
     "jest": "^27.0.6",
